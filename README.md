@@ -20,7 +20,7 @@ Go to https://github.com/gasolin/ghapplate, click 'fork' button to fork the temp
 
 ## How to seee ghapplate
 
-Go to http://gasolin.github.io/ghapplate, that's all :)
+Go to https://github.com/crazybeyeahloser/ghapplate, that's all :)
 
 ## Features
 
